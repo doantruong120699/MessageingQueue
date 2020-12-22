@@ -18,13 +18,9 @@ namespace TienTrinh2
         private MessageQueue messageQueueInput;
         private MessageQueue messageQueueOutput;
 
-        private MessageQueue messageQueueInputMatrix;
-        private MessageQueue messageQueueOutputMatrix;
         private Queue DataInputMatrix;
         private Queue DataOutputMatrix;
 
-        private MessageQueue messageQueueInputTXT;
-        private MessageQueue messageQueueOutputTXT;
         private Queue DataInputTXT;
         private Queue DataOutputTXT;
 
@@ -46,8 +42,8 @@ namespace TienTrinh2
         private void Form_Load()
         {
             var dict = new Dictionary<int, string>();
-            dict.Add(1, "Xử lý phép tính");
-            dict.Add(2, "Xử lý ma trận");
+            dict.Add(1, "Processing calculations");
+            dict.Add(2, "Matrix processing");
 
             comboBox1.DataSource = new BindingSource(dict, null);
             comboBox1.DisplayMember = "Value";
@@ -58,17 +54,12 @@ namespace TienTrinh2
         {
             InitializeComponent();
             Form_Load();
-            messageQueueInputMatrix = new MessageQueue();
-            messageQueueOutputMatrix = new MessageQueue();
 
             messageQueueInput = new MessageQueue();
             messageQueueOutput = new MessageQueue();
 
             DataInputMatrix = new Queue();
             DataOutputMatrix = new Queue();
-
-            messageQueueInputTXT = new MessageQueue();
-            messageQueueOutputTXT = new MessageQueue();
 
             DataInputTXT = new Queue();
             DataOutputTXT = new Queue();
@@ -88,6 +79,15 @@ namespace TienTrinh2
         {
             Thread thrdMatrix = new Thread(AutoRun);
             thrdMatrix.Start();
+        }
+
+        private Boolean Count(MessageQueue queue)
+        {
+            int count = 0;
+            var enumerator = queue.GetMessageEnumerator2();
+            while (enumerator.MoveNext())
+                return false;
+            return true;
         }
 
         private void AutoRun()
@@ -112,10 +112,14 @@ namespace TienTrinh2
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Kiểm tra lại hàng đợi!");
+                MessageBox.Show("Please check the queue again!", "Warring!");
             }
             Message message = new Message();
-            if (task == 1)
+            if (Count(messageQueueInput))
+            {
+                MessageBox.Show("The queue is empty!", "Warring!");
+            }
+            else if (task == 1)
             {
                 String str, result, str_show="";
                 while (true)
@@ -128,40 +132,16 @@ namespace TienTrinh2
                         DataInputTXT.Enqueue(str);
                         result = str + "= " + TinhBieuThuc.calculator(str);
                         //MessageBox.Show(result);
-                        str_show += result + "\n";
+                        str_show = result + "\n";
+                        this.Invoke(new MethodInvoker(delegate () {
+                            richTextBox1.AppendText(str_show);
+                        }));
                         DataOutputTXT.Enqueue(result);
                     }
                     else
                     {
                         break;
                     }
-                }
-                
-
-                #region Trả kết quả về hàng đợi
-                //if (DataOutputTXT == null || DataOutputTXT.Count <= 0)
-                //{
-                //    MessageBox.Show("Chưa có dữ liệu!!!");
-                //}
-                //else
-                //{
-                //    String str_result;
-                //    while (DataOutputTXT.Count > 0)
-                //    {
-                //        str_result = Convert.ToString(DataOutputTXT.Dequeue());
-                //        MessageBox.Show(str_result);
-                //        messageQueueOutputTXT.Send(str_result);
-                //    }
-                //}
-                #endregion
-                if (this.richTextBox1.InvokeRequired)
-                {
-                    SetTextCallback d = new SetTextCallback(SetText);
-                    this.Invoke(d, new object[] { str_show });
-                }
-                else
-                {
-                    this.richTextBox1.Text = str_show;
                 }
             }
             else
@@ -182,29 +162,8 @@ namespace TienTrinh2
 
                 //tính toán
                 Calculator();
-
-                #region Trả kết quả về hàng đợi
-                //if (DataOutputMatrix == null || DataOutputMatrix.Count <= 0)
-                //{
-                //    MessageBox.Show("Chưa có dữ liệu!!!");
-                //}
-                //else
-                //{
-                //    while (DataOutputMatrix.Count > 0)
-                //    {
-                //        messageQueueOutputMatrix.Send(Convert.ToString(DataOutputMatrix.Dequeue()));
-                //    }
-                //}
-                #endregion
             }
 
-            //Thread.Sleep(1000);
-
-            /*else
-            {
-                MessageBox.Show("Đã nạp hết hàng đợi!!!");
-                break;
-            }*/
         }
 
         private void Calculator()
@@ -272,7 +231,7 @@ namespace TienTrinh2
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show("Lỗi!!!");
+                    MessageBox.Show("Error!");
                     return;
                 }
                 #endregion
@@ -280,9 +239,9 @@ namespace TienTrinh2
             if (c1 != r2)
             {
                 this.Invoke(new MethodInvoker(delegate () {
-                    label_ViewR_Matrix.Text += "\n Không thể nhân hai ma trận";
+                    label_ViewR_Matrix.Text += "\n Can't multiply two matrices!";
                 }));
-                MessageBox.Show("Không thể nhân hai ma trận");
+                MessageBox.Show("Can't multiply two matrices!");
             }
             else
             {                
@@ -325,7 +284,7 @@ namespace TienTrinh2
                 }
                 else
                 {
-                    kq = "\n Nhân ma trận thành công\n File kết quả: " + tb_para2_Matrix.Text;
+                    kq = "Nhân ma trận thành công\n File kết quả: " + tb_para2_Matrix.Text;
                     DataOutputMatrix.Enqueue(kq);
                     this.Invoke(new MethodInvoker(delegate () {
                         richTextBox1.Text += kq;
@@ -344,7 +303,7 @@ namespace TienTrinh2
         private void btn_Reset_Click(object sender, EventArgs e)
         {
             this.Invoke(new MethodInvoker(delegate () {
-                label_ViewR_Matrix.Text = "---------------------------Kết quả----------------------------";
+                label_ViewR_Matrix.Text = "---------------------------Result----------------------------";
             }));
 
             this.Invoke(new MethodInvoker(delegate () {
@@ -375,6 +334,11 @@ namespace TienTrinh2
         }
 
         private void label_ViewR_Matrix_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Matrix_Click(object sender, EventArgs e)
         {
 
         }

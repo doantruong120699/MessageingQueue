@@ -32,8 +32,8 @@ namespace TienTrinh1
         private void Form_Load()
         {
             var dict = new Dictionary<int, string>();
-            dict.Add(1, "Xử lý phép tính");
-            dict.Add(2, "Xử lý ma trận");
+            dict.Add(1, "Processing calculations");
+            dict.Add(2, "Matrix processing");
 
             comboBox1.DataSource = new BindingSource(dict, null);
             comboBox1.DisplayMember = "Value";
@@ -80,7 +80,7 @@ namespace TienTrinh1
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Vui lòng chọn file phù hợp!!!!");
+                MessageBox.Show("Please select the appropriate file!");
                 return false;
             }
             
@@ -189,7 +189,7 @@ namespace TienTrinh1
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Vui lòng chọn file phù hợp");
+                MessageBox.Show("Please select the appropriate file");
                 return false;
             }
         }
@@ -197,7 +197,7 @@ namespace TienTrinh1
         private  void btn_ChooseFile_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Title = "Chọn file chứa dữ liệu đầu vào";
+            openFileDialog.Title = "Select the file containing the input data";
             openFileDialog.InitialDirectory = @"C:\Users\PC\Desktop";
             if (comboBox1.SelectedIndex == 0)
             {
@@ -229,7 +229,7 @@ namespace TienTrinh1
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Vui lòng kiểm tra lại hàng đợi!");
+                MessageBox.Show("Please check the queue again!");
                 return;
             }
             if (DataInputMatrix == null || DataInputMatrix.Count <= 0)
@@ -252,7 +252,7 @@ namespace TienTrinh1
                         messageQueueInput.Send(Convert.ToString(DataInputMatrix.Dequeue()));
                     }
                 }
-                MessageBox.Show("Nạp dữ liệu vào hàng đợi thành công!!!");
+                MessageBox.Show("Successfully loaded data into the queue!");
             }
         }
 
@@ -274,7 +274,7 @@ namespace TienTrinh1
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Vui lòng kiểm tra lại hàng đợi");
+                    MessageBox.Show("Please check the queue again!");
                     return;
                 }
                 Message message = new Message();
@@ -296,7 +296,7 @@ namespace TienTrinh1
         private void btn_Reset_Click(object sender, EventArgs e)
         {
             this.Invoke(new MethodInvoker(delegate () {
-                label_Result_Matrix.Text = "-----------------------------Kết quả-----------------------------";
+                label_Result_Matrix.Text = "Result";
             }));
             ListInputMatrix.Clear();
         }
@@ -334,29 +334,40 @@ namespace TienTrinh1
 
         private void btn_napdulieu_txt_Click(object sender, EventArgs e)
         {
-            try
+            String txt_input = txt_bieuthuc.Text.Trim();
+            if (txt_input.Equals(""))
             {
-                if (comboBox1.SelectedIndex == 0)
-                    messageQueueInput = new MessageQueue(@".\private$\inputTXT");
-                else
-                    messageQueueInput = new MessageQueue(@".\private$\inputMatrix");
-                messageQueueInput.Formatter = new XmlMessageFormatter(new Type[] { typeof(String) });
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Vui lòng kiểm tra lại hàng đợi!");
+                MessageBox.Show("Please enter an expression!");
                 return;
             }
-            String txt_input = txt_bieuthuc.Text;
-            if (DataInputMatrix == null || DataInputMatrix.Count <= 0)
+            else
             {
-                if (comboBox1.SelectedIndex == 0)
+                try
                 {
-                    messageQueueInput.Send(txt_input);
+                    if (comboBox1.SelectedIndex == 0)
+                        messageQueueInput = new MessageQueue(@".\private$\inputTXT");
+                    else
+                        messageQueueInput = new MessageQueue(@".\private$\inputMatrix");
+                    messageQueueInput.Formatter = new XmlMessageFormatter(new Type[] { typeof(String) });
                 }
-                MessageBox.Show("Nạp dữ liệu vào hàng đợi thành công!!!");
-                txt_bieuthuc.Text = "";
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Please check the queue again!");
+                    return;
+                }
+
+                if (DataInputMatrix == null || DataInputMatrix.Count <= 0)
+                {
+                    if (comboBox1.SelectedIndex == 0)
+                    {
+                        messageQueueInput.Send(txt_input);
+                        messageQueueInput.Send("end");
+                    }
+                    MessageBox.Show("Successfully loaded data into the queue!");
+                    txt_bieuthuc.Text = "";
+                }
             }
+            
         }
     }
 }
