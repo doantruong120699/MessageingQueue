@@ -1,0 +1,20 @@
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.exe.config
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.pdb
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csprojAssemblyReference.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.Properties.Resources.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.TienTrinh2.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csproj.GenerateResource.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csproj.CoreCompileInputs.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.pdb
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.exe.config
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.exe
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Release\TienTrinh2.pdb
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.Properties.Resources.resources
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.TienTrinh2.resources
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.exe
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Release\TienTrinh2.pdb

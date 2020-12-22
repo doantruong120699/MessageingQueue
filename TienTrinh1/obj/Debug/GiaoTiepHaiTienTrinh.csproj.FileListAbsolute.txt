@@ -1,0 +1,10 @@
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\bin\Debug\TienTrinh1.exe.config
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\bin\Debug\TienTrinh1.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\bin\Debug\TienTrinh1.pdb
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\GiaoTiepHaiTienTrinh.csprojAssemblyReference.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\TienTrinh1.TienTrinh1.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\TienTrinh1.Properties.Resources.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\GiaoTiepHaiTienTrinh.csproj.GenerateResource.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\GiaoTiepHaiTienTrinh.csproj.CoreCompileInputs.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\TienTrinh1.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh1\obj\Debug\TienTrinh1.pdb

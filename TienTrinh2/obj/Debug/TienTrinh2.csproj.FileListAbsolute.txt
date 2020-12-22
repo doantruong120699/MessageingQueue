@@ -1,0 +1,127 @@
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.pdb
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.exe
+F:\CongNgheThongTin\DoAnCoSoNganhMang\DaHDH\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.pdb
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.exe
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\bin\Debug\TienTrinh2.pdb
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.exe
+C:\Users\PC\Desktop\VoNhuHoan_15T2_102150098\Đồ Án Hoàn Chỉnh\DoAnHeDieuHanh\MessageQueue\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\DoAnCoSoNganhMang\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.pdb
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.pdb
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.exe
+E:\files\MessageQueueMT-20191028T143656Z-001\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.pdb
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.pdb
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.exe
+C:\Users\Duyen Rice\Desktop\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\bin\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\demo-DA\MessageQueueMT\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2.resources
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.exe
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.dll
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OOXML.dll
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXml4Net.dll
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\IT\hk1 nam4\demo-DA\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CopyComplete
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.pdb
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.dll
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OOXML.dll
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXml4Net.dll
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CopyComplete
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.exe
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.pdb
+E:\fourth-year\DACSNM\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2_Matrix.resources
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.pdb
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.dll
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OOXML.dll
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2_Matrix.resources
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.exe
+C:\Users\ADMIN\Desktop\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.pdb
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe.config
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.exe
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\TienTrinh2.pdb
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.dll
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OOXML.dll
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.TienTrinh2_Matrix.resources
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.exe
+C:\Users\ADMIN\Desktop\school\DA Co So Nganh Mang\demo hdh\MessageQueueMTLon-20201207T163249Z-001\MessageQueueMTLon\TienTrinh2\obj\Debug\TienTrinh2.pdb
